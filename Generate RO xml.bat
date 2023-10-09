@@ -73,15 +73,15 @@ rem Menyimpan string fingerprint ke dalam file XML
 echo ==============================================
 echo ========== Tabel Informasi Perangkat ==========
 echo ==============================================
-echo [Informasi] ^| [Nilai]
+echo [Informasi]        ^| [Nilai]
 echo ----------------------------------------------
-echo Fingerprint ^| !fingerprint!
-echo Base OS ^| !base_os!
-echo Security Patch ^| !security_patchs!
-echo AP Version ^| !buildPDA!
-echo CP Version ^| !sw_ver!
-echo CSC Version ^| !official_cscver!
-echo First API Level ^| !first_api_level!
+echo Fingerprint        ^| !fingerprint!
+echo Base OS            ^| !base_os!
+echo Security Patch     ^| !security_patchs!
+echo AP Version         ^| !buildPDA!
+echo CP Version         ^| !sw_ver!
+echo CSC Version        ^| !official_cscver!
+echo First API Level    ^| !first_api_level!
 echo STS property State ^| !sts.property!
 echo ==============================================
 
